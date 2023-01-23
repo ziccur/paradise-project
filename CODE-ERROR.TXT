@@ -1,0 +1,14 @@
+
+-------------------------- 4000 SERIES --------------------------
+
+ERROR 4050: The key length is too short or too long.( 342 characters are required
+
+-------------------------- 5000 SERIES -------------------------- 
+
+ERROR 5010: The text introduced it's not compatible with default key
+
+ERROR 5020: The key entered hasn't have characters than necessary
+
+ERROR 5030: The password entered is not valid (contains spaces)
+
+ERROR 5040: The text introduced it's not compatible with the key 
